@@ -1,0 +1,4 @@
+pick and choose video to convert to an audio file
+yt-dlp "youtube link here" --format m4a -o "./tmp/[filename here]
+
+japanese test file 2min https://www.youtube.com/watch?v=gSDjb0ENVmc
